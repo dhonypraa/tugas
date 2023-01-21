@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------
@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '4dmin',
-	'password' => 'p4ssword',
+	'hostname' => '139.162.54.225',
+	'username' => 'dhony',
+	'password' => 'p@ssword43D',
 	'database' => 'helpdesk_ls',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
